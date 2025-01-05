@@ -1,4 +1,4 @@
-# Banka-Hesap-Yönetim-Sitemi
+# Banka-Hesap-Yönetim-Sistemi
 Proje Tanımı:
 Bu proje, kullanıcıların banka hesaplarını yönetmelerini sağlayan  bir konsol uygulamasıdır. Kullanıcılar, hesap açma, kapatma, para yatırma, çekme ve faiz hesaplama gibi temel bankacılık işlemlerini  gerçekleştirebilir. Ayrıca, her işlem kullanıcı dostu bir menü aracılığıyla gerçekleştirili ve yapılan işlemler kaydedilir. 
 
