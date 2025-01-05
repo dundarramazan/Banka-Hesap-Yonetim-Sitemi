@@ -1,4 +1,4 @@
-# Banka-Hesap-Yonetim-Sitemi
+# Banka-Hesap-Yönetim-Sitemi
 d
 ede
 de
