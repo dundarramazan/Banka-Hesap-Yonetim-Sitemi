@@ -4,9 +4,15 @@ Bu proje, kullanıcıların banka hesaplarını yönetmelerini sağlayan basit b
 
 Özellikler
 Hesap Yönetimi: Yeni hesap açma, kapama, bakiye sorgulama.
+
 Para İşlemleri: Para yatırma, çekme ve faiz hesaplama.
+
 Yönetici Erişimi: Tüm hesapları görüntüleme ve işlem geçmişini inceleme.
+
 İşlem Geçmişi: Her hesap için yapılan işlemler kaydedilir ve görüntülenebilir.
+
 Kullanılan Teknolojiler
+
 Programlama Dili: C
+
 Veri Depolama: Dosya tabanlı veri yönetimi (hesaplar.txt)
